@@ -39,7 +39,7 @@ This repository simulates a basic ransomware attack with a **GUI-based interface
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/youssefmohammed80/Ransomware_Attack_GUI.git
+https://github.com/youssefmohammed80/Ransomware_Attack_GUI.git
 cd Ransomware_Attack_GUI
 ```
 
